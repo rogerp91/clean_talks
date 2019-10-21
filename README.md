@@ -30,16 +30,3 @@ Ejemplo para aplicar Clean Architecture en un proyecto Android.
     
     implementation "com.squareup.picasso:picasso:2.71828"
     
-## Estructura
-* data
-  * datasource
-  * repository
-  
-* domain
-  * model
-  * repository
-
-* presentation
-  * common
-  * detail
-  * list
